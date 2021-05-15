@@ -1,6 +1,7 @@
 # CKY
 
-* Implementation of probabilistic CKY algorithm
+Implementation of probabilistic CKY algorithm
+
 * Applies bottom-up parsing and dynamic programming
 * Takes context-free grammar in Chomsky Normal Form (CNF) as first command line argument
 * Parser runs on second command line argument "sentences.sen"
